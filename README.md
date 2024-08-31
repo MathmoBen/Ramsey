@@ -6,4 +6,4 @@ https://www.combinatorics.org/ojs/index.php/eljc/article/view/DS1
 
 can hopefully shed some light on this.
 
-![R(3,9)](https://github.com/MathmoBen/Fractals/blob/main/Hally.png)
+![R(3,9)](https://github.com/MathmoBen/Ramsey/blob/main/R(3%2C9).png)
